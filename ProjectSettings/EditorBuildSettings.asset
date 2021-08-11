@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 7f3e74e28c9f12743b5822030b055b7b
+  - enabled: 1
+    path: Assets/Scenes/Training.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial1Simple.unity
+    guid: add12137ff509004085a43d227c3d09a
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 2.unity
+    guid: 050663b24bb37f649ad41bcdc8df85cc
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 3.unity
+    guid: dc65716a4bf99854ebfb546d23345f89
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 4.unity
+    guid: adbec45cb5c5876469b2d9c507076d66
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 5.unity
+    guid: 88db4581b973d0f44a9333f4aa381d02
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 6.unity
+    guid: ef4acdfd3fbf5d54688fe5d2dfeebb5e
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 7.unity
+    guid: e1fbbf291fb0e5c40a5ad84478381d80
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 8.unity
+    guid: 1e3ab5cc0e1a8f24abe500654f907220
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialSimple/Tutorial 9.unity
+    guid: 075fa9bb340b7a142817c2e09aa5a0d9
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial1Advanced.unity
+    guid: 22c610bf7c83cf74296a3434e43107da
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 2.unity
+    guid: 3ca4ad6aa4b31224791991a1dad2eaae
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 3.unity
+    guid: c8650ff99cdf53e42a1b1ec6ff9d5cfe
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 4.unity
+    guid: 3e6b5554f91a2da4e9cfdc008fc8a06f
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 5.unity
+    guid: f4d7fcf3be8cf0e418a3af3a48abb6ec
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 6.unity
+    guid: 26e6f313f4e93a043ba880450d3b1946
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 7.unity
+    guid: 8906b4e8d712fca4abef16dac5baa677
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 8.unity
+    guid: 63671bd82ced8e34e86335af43cd1763
+  - enabled: 1
+    path: Assets/Scenes/Tutorial/TutorialAdvanced/Tutorial 9.unity
+    guid: d8d2e2f668ab8f24fbbf0788c6d47c14
+  - enabled: 1
+    path: Assets/Scenes/BassBusterAdvanced.unity
+    guid: 610fe91e64869b247b84ec48ef15b06b
+  - enabled: 1
+    path: Assets/Scenes/WinnerCalculatorBassBuster 1.unity
+    guid: c91b3e2487a0dac40bd034b8285f0251
+  - enabled: 1
+    path: Assets/Scenes/BassBusterSimple.unity
+    guid: efef29a7e0de40947b90a1037bb17931
+  - enabled: 1
+    path: Assets/Scenes/WinnerCalculatorBassBuster 2.unity
+    guid: b15d5ae129d8d5f40b81f37f18139c9d
+  - enabled: 1
+    path: Assets/Scenes/DiscoQueenAdvanced.unity
+    guid: a697625d5d030c54d9a6482b22d8d801
+  - enabled: 1
+    path: Assets/Scenes/WinnerCalculatorDiscoQueen 1.unity
+    guid: 82c04587fc77adb4db24be7e9edfb548
+  - enabled: 1
+    path: Assets/Scenes/DiscoQueenSimple.unity
+    guid: 2e9dc8a6b969aa94ea08c17c18ecdbbe
+  - enabled: 1
+    path: Assets/Scenes/WinnerCalculatorDiscoQueen.unity
+    guid: 5271b24f89d7e794b8d0461983322ecd
+  m_configObjects: {}
