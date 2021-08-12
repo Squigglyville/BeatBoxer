@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1FF0449C-FE42-234B-A0B3-F70293AA4316}</ProjectGuid>
+    <ProjectGuid>{6F460C08-53D8-63F5-3996-986F2FFE7791}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -62,29 +62,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\AdvancedScript.cs" />
-    <Compile Include="Assets\BackgroundAnimation.cs" />
-    <Compile Include="Assets\DiscoQueenScript.cs" />
-    <Compile Include="Assets\FadeInScript.cs" />
-    <Compile Include="Assets\PauseMenuScript.cs" />
-    <Compile Include="Assets\Scenes\Scripts\ArrowKeyOffScript.cs" />
-    <Compile Include="Assets\Scenes\Scripts\ArrowKeysScript.cs" />
-    <Compile Include="Assets\Scenes\Scripts\Conductor.cs" />
-    <Compile Include="Assets\Scenes\Scripts\Dialogue.cs" />
-    <Compile Include="Assets\Scenes\Scripts\DialogueManager.cs" />
-    <Compile Include="Assets\Scenes\Scripts\DialogueTrigger.cs" />
-    <Compile Include="Assets\Scenes\Scripts\HealthBar.cs" />
-    <Compile Include="Assets\Scenes\Scripts\HealthSystem.cs" />
-    <Compile Include="Assets\Scenes\Scripts\HitmarkerScript.cs" />
-    <Compile Include="Assets\Scenes\Scripts\LightbulbScript.cs" />
-    <Compile Include="Assets\Scenes\Scripts\MenuController.cs" />
-    <Compile Include="Assets\Scenes\Scripts\PlayerBehaviour.cs" />
-    <Compile Include="Assets\Scenes\Scripts\TrainingBotScript.cs" />
-    <Compile Include="Assets\Scenes\Scripts\TutorialTracker.cs" />
-    <Compile Include="Assets\SimplfiedScript.cs" />
-    <Compile Include="Assets\TutorialNumberAdder.cs" />
-    <Compile Include="Assets\WinnerCalculator.cs" />
-    <Compile Include="Assets\endSplashScript.cs" />
+    <Compile Include="Assets\Scripts\AdvancedScript.cs" />
+    <Compile Include="Assets\Scripts\ArrowKeyOffScript.cs" />
+    <Compile Include="Assets\Scripts\ArrowKeysScript.cs" />
+    <Compile Include="Assets\Scripts\BackgroundAnimation.cs" />
+    <Compile Include="Assets\Scripts\Conductor.cs" />
+    <Compile Include="Assets\Scripts\Dialogue.cs" />
+    <Compile Include="Assets\Scripts\DialogueManager.cs" />
+    <Compile Include="Assets\Scripts\DialogueTrigger.cs" />
+    <Compile Include="Assets\Scripts\DiscoQueenScript.cs" />
+    <Compile Include="Assets\Scripts\FadeInScript.cs" />
+    <Compile Include="Assets\Scripts\HealthBar.cs" />
+    <Compile Include="Assets\Scripts\HealthSystem.cs" />
+    <Compile Include="Assets\Scripts\HitmarkerScript.cs" />
+    <Compile Include="Assets\Scripts\LightbulbScript.cs" />
+    <Compile Include="Assets\Scripts\MenuController.cs" />
+    <Compile Include="Assets\Scripts\PauseMenuScript.cs" />
+    <Compile Include="Assets\Scripts\PlayerBehaviour.cs" />
+    <Compile Include="Assets\Scripts\SimplfiedScript.cs" />
+    <Compile Include="Assets\Scripts\TrainingBotScript.cs" />
+    <Compile Include="Assets\Scripts\TutorialNumberAdder.cs" />
+    <Compile Include="Assets\Scripts\TutorialTracker.cs" />
+    <Compile Include="Assets\Scripts\WinnerCalculator.cs" />
+    <Compile Include="Assets\Scripts\endSplashScript.cs" />
     <None Include="Assets\OldAnimations\TextMesh Pro\Shaders\TMPro.cginc" />
     <None Include="Assets\OldAnimations\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets\OldAnimations\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -635,102 +635,102 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.26f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Runtime">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Animation.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Path.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Path.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Triangle.Runtime">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Animation.Triangle.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="PsdPlugin">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/PsdPlugin.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.Mathematics.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Psdimporter.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Psdimporter.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEngineBridge.001">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.InternalAPIEngineBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Sprite.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Sprite.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Runtime">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Common.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Tilemap.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Tilemap.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.SpriteShape.Runtime">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.SpriteShape.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.PixelPerfect">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.PixelPerfect.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Animation.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Animation.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Mathematics.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.2D.Common.Editor">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.2D.Common.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.InternalAPIEditorBridge.001">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.001.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FMODUnity.csproj">
-      <Project>{19C0D7FD-20DF-C284-1E07-944CCE438345}</Project>
+      <Project>{B5D0EDB0-15D1-011D-387A-49D1DB6A09B3}</Project>
       <Name>FMODUnity</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnityResonance.csproj">
-      <Project>{31B7131F-83AF-77AB-168F-FD5A07A85383}</Project>
+      <Project>{72FC2464-4FDB-4B20-6C44-D3BCA0A78CC6}</Project>
       <Name>FMODUnityResonance</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnityResonanceEditor.csproj">
-      <Project>{90CE1A38-C149-4BFD-01C1-4E1525FC7342}</Project>
+      <Project>{51161309-403D-7314-AB36-1E3DE4314A9F}</Project>
       <Name>FMODUnityResonanceEditor</Name>
     </ProjectReference>
     <ProjectReference Include="FMODUnityEditor.csproj">
-      <Project>{C7CA1AE5-F99A-E545-3C1B-C67315435A60}</Project>
+      <Project>{CAA8CC5C-0990-0E95-6AE1-84F153F34C06}</Project>
       <Name>FMODUnityEditor</Name>
     </ProjectReference>
   </ItemGroup>

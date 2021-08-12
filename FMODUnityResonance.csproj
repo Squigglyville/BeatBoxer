@@ -11,7 +11,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{31B7131F-83AF-77AB-168F-FD5A07A85383}</ProjectGuid>
+    <ProjectGuid>{72FC2464-4FDB-4B20-6C44-D3BCA0A78CC6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>FMODUnityResonance</AssemblyName>
@@ -609,15 +609,15 @@
       <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.26f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>C:/Users/tobys/Documents/8BitBeatBoxer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Users/tobys/Documents/BeatBoxer/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="FMODUnity.csproj">
-      <Project>{19C0D7FD-20DF-C284-1E07-944CCE438345}</Project>
+      <Project>{B5D0EDB0-15D1-011D-387A-49D1DB6A09B3}</Project>
       <Name>FMODUnity</Name>
     </ProjectReference>
   </ItemGroup>
